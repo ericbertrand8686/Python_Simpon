@@ -1,1 +1,1 @@
-# Fichier Python pour la formation Simplon IA
+# Notebooks Python pour la formation Simplon IA
